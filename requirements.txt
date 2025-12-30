@@ -1,0 +1,7 @@
+requests
+pandas
+pyarrow
+pydantic
+python-dotenv
+scikit-learn
+openai
