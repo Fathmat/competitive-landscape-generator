@@ -109,7 +109,7 @@ Suppliers:
               │ 7. Final grouped landscape     │
               │    CSV + Parquet + Print       │
               └────────────────────────────────┘
-```
+
 
 ## Installation
 ### 1. Install required packages
